@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* header section */
+  
+  #title {
+    background-color: rgba(255, 249, 244, 1);
+  
+    margin-bottom: 30px;
+  }
+  /* NAV SECTION */
+  .navbar-item {
+    padding: 0 20px;
+  }
+  .navbar-item a {
+    color: rgba(60, 60, 60, 1);
+    font-size: 1rem;
+    font-weight: 400;
+  }
+  /* HERO SECTION */
+  .hero-img {
+    width: 80%;
+  }
+  .hero-title {
+    font-family: "Bebas Neue", cursive;
+    font-size: 4.5rem;
+    width: 100%;
+  }
+  .hero-title span {
+    color: #fa804c;
+  }
+  .hero-text {
+    width: 357px;
+    color: gba(62, 62, 62, 1);
+    font-size: 16px;
+    font-family: roboto;
+  }
+  .buy-now-btn {
+    font-weight: 400;
+    color: white;
+    font-size: 1rem;
+    padding: 18px 33px;
+    font-family: "Roboto", sans-serif;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  }
+  /* Shoes Section */
+  .card-img-top {
+    width: 250px;
+    height: 250px;
+  }
+  .card-image {
+    /* background-color: rgba(241, 241, 241, 1); */
+    margin: 5%;
+    border-radius: 10px;
+    text-align: center;
+  }
+  /* Features section */
+  #features {
+    margin-top: 4rem;
+  }
+  .features-items {
+    padding: 30px 0;
+  }
+  .features-img {
+    padding-left: 27px;
+  }
+  .features-div {
+    padding-left: 30px;
+    padding-right: 20px;
+    width: 100%;
+  }
+  
+  .features-title {
+    font-family: roboto;
+  }
+  
+  .shopping-img {
+    width: 100%;
+  }
+  footer{
+    text-align: center;
+    margin-top: 40px;
+  }
